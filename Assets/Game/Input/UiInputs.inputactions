@@ -1,0 +1,34 @@
+{
+    "name": "UiInputs",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "4f663688-de04-490c-b6d9-7b8e7105a319",
+            "actions": [
+                {
+                    "name": "OpenPause",
+                    "type": "Button",
+                    "id": "a2a8213d-7b52-4203-8d48-af4db18b3e60",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f627591d-7418-43a3-a728-52e9286545d5",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
