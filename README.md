@@ -2,6 +2,7 @@ Unity version: 2022.3.58f1
 Plugins: Zenject, UniTask
 Graphics: 2D
 
+Видео геймплея - https://drive.google.com/file/d/12BRCXYYu-s2PKCUxn7e65_ZX4rOOMg6F/view?usp=sharing
 Скачать билд (Windows) - https://drive.google.com/file/d/1D49GYDni8YYjtkxVA1E2AZxZqkBvPtFh/view?usp=sharing
 
 Геймплей:
